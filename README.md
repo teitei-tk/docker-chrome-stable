@@ -3,7 +3,7 @@ Ubunts LTS (16.04) Based chrome stable installed on Docker.
 
 ## Usage
 ```bash
-$ docker build -t teitei/chrome:latest
+$ docker pull teitei/chrome
 $ docker run -it --privileged teitei/chrome bash
 ```
 
