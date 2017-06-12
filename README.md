@@ -1,6 +1,9 @@
 # docker-chrome-stable
 Ubunts LTS (16.04) Based chrome stable installed on Docker.
 
+[![Docker Automated buil](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)](https://hub.docker.com/r/teitei/docker-chrome-stable/)
+[![Docker Build Statu](https://img.shields.io/docker/build/jrottenberg/ffmpeg.svg)](https://hub.docker.com/r/teitei/docker-chrome-stable/)
+
 ## Usage
 ```bash
 $ docker build -t teitei/chrome:latest
